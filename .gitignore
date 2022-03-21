@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#large dataset file
+PCD_OA_LSOA_MSOA_LAD_FEB22_UK_LU.csv
