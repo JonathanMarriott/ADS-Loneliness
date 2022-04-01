@@ -1,0 +1,153 @@
+﻿location,location_code,geographic_level,time_period,data_type,level_methodology,institution_group,characteristic,all_degree
+County Durham,E06000047,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,52
+Darlington,E06000005,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,64.2
+Gateshead,E08000037,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,56.6
+Hartlepool,E06000001,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,46.6
+Middlesbrough,E06000002,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,53.9
+Newcastle upon Tyne,E08000021,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,52.7
+North Tyneside,E08000022,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,72.9
+Northumberland,E06000057,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,58.9
+Redcar and Cleveland,E06000003,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,77
+South Tyneside,E08000023,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,50.4
+Stockton-on-Tees,E06000004,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,77.3
+Sunderland,E08000024,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,62.3
+Blackburn with Darwen,E06000008,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,64.6
+Blackpool,E06000009,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,52.4
+Bolton,E08000001,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,66.7
+Bury,E08000002,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,62.8
+Cheshire East,E06000049,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,53.8
+Cheshire West and Chester,E06000050,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,69.5
+Cumbria,E10000006,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,55.7
+Halton,E06000006,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,55
+Knowsley,E08000011,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,50
+Lancashire,E10000017,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,62.1
+Liverpool,E08000012,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,64.3
+Manchester,E08000003,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,70.9
+Oldham,E08000004,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,68
+Rochdale,E08000005,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,62.7
+Salford,E08000006,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,51.4
+Sefton,E08000014,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,61.5
+St. Helens,E08000013,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,64.1
+Stockport,E08000007,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,56.9
+Tameside,E08000008,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,58.9
+Trafford,E08000009,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,83.3
+Warrington,E06000007,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,52.2
+Wigan,E08000010,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,63
+Wirral,E08000015,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,67
+Barnsley,E08000016,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,50.4
+Bradford,E08000032,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,66.7
+Calderdale,E08000033,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,57.9
+Doncaster,E08000017,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,65.6
+East Riding of Yorkshire,E06000011,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,55.2
+"Kingston upon Hull, City of",E06000010,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,57.5
+Kirklees,E08000034,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,70.8
+Leeds,E08000035,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,60.1
+North East Lincolnshire,E06000012,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,48.1
+North Lincolnshire,E06000013,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,61.3
+North Yorkshire,E10000023,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,63.5
+Rotherham,E08000018,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,54.9
+Sheffield,E08000019,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,63.4
+Wakefield,E08000036,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,54.6
+York,E06000014,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,49.8
+Derby,E06000015,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,57.8
+Derbyshire,E10000007,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,62
+Leicester,E06000016,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,62.5
+Leicestershire,E10000018,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,60.1
+Lincolnshire,E10000019,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,60.4
+Northamptonshire,E10000021,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,59.5
+Nottingham,E06000018,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,58.6
+Nottinghamshire,E10000024,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,64.4
+Rutland,E06000017,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,87.7
+Birmingham,E08000025,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,69.6
+Coventry,E08000026,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,61.9
+Dudley,E08000027,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,58.5
+"Herefordshire, County of",E06000019,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,56.5
+Sandwell,E08000028,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,63.1
+Shropshire,E06000051,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,55.3
+Solihull,E08000029,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,67.7
+Staffordshire,E10000028,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,55.7
+Stoke-on-Trent,E06000021,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,64.4
+Telford and Wrekin,E06000020,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,75.8
+Walsall,E08000030,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,62.3
+Warwickshire,E10000031,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,60.1
+Wolverhampton,E08000031,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,65.5
+Worcestershire,E10000034,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,57.6
+Bedford,E06000055,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,46.2
+Cambridgeshire,E10000003,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,63.3
+Central Bedfordshire,E06000056,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,57.1
+Essex,E10000012,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,53.9
+Hertfordshire,E10000015,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,65.3
+Luton,E06000032,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,71.2
+Norfolk,E10000020,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,52.3
+Peterborough,E06000031,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,62.8
+Southend-on-Sea,E06000033,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,58.4
+Suffolk,E10000029,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,56.4
+Thurrock,E06000034,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,59.9
+Barking and Dagenham,E09000002,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,66.5
+Barnet,E09000003,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,82.1
+Bexley,E09000004,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,67.9
+Brent,E09000005,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,82.3
+Bromley,E09000006,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,59.4
+Camden,E09000007,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,70.9
+City of London,E09000001,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,0
+Croydon,E09000008,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,64.1
+Ealing,E09000009,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,81.9
+Enfield,E09000010,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,77.8
+Greenwich,E09000011,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,70
+Hackney,E09000012,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,76.8
+Hammersmith and Fulham,E09000013,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,75
+Haringey,E09000014,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,82.5
+Harrow,E09000015,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,83.9
+Havering,E09000016,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,59.2
+Hillingdon,E09000017,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,65.1
+Hounslow,E09000018,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,72.8
+Islington,E09000019,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,72.6
+Kensington and Chelsea,E09000020,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,80.1
+Kingston upon Thames,E09000021,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,65.9
+Lambeth,E09000022,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,76.2
+Lewisham,E09000023,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,74.1
+Merton,E09000024,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,80.3
+Newham,E09000025,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,78.2
+Redbridge,E09000026,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,83.8
+Richmond upon Thames,E09000027,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,66.7
+Southwark,E09000028,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,78.6
+Sutton,E09000029,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,78.1
+Tower Hamlets,E09000030,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,78.2
+Waltham Forest,E09000031,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,71.1
+Wandsworth,E09000032,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,77.4
+Westminster,E09000033,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,78
+Bracknell Forest,E06000036,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,50.3
+Brighton and Hove,E06000043,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,66.1
+Buckinghamshire,E10000002,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,76
+East Sussex,E10000011,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,50.7
+Hampshire,E10000014,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,57.8
+Isle of Wight,E06000046,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,57.7
+Kent,E10000016,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,60.3
+Medway,E06000035,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,50.4
+Milton Keynes,E06000042,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,62.7
+Oxfordshire,E10000025,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,58
+Portsmouth,E06000044,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,49.1
+Reading,E06000038,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,75.6
+Slough,E06000039,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,69.5
+Southampton,E06000045,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,48.4
+Surrey,E10000030,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,62.7
+West Berkshire,E06000037,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,60.3
+West Sussex,E10000032,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,52
+Windsor and Maidenhead,E06000040,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,58.2
+Wokingham,E06000041,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,67.8
+Bath and North East Somerset,E06000022,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,56.3
+Bournemouth,E06000028,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,65.5
+"Bristol, City of",E06000023,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,60.8
+Cornwall,E06000052,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,52.1
+Devon,E10000008,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,52.5
+Dorset,E10000009,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,56.3
+Gloucestershire,E10000013,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,60.4
+Isles of Scilly,E06000053,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,0
+North Somerset,E06000024,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,50.9
+Plymouth,E06000026,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,56.7
+Poole,E06000029,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,49.5
+Somerset,E10000027,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,52.7
+South Gloucestershire,E06000025,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,44.7
+Swindon,E06000030,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,39.2
+Torbay,E06000027,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,53.9
+Wiltshire,E06000054,localAuthority,201718,Percentage,Local education authority area,State-funded mainstream schools & colleges,Total,59.1

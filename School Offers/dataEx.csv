@@ -1,0 +1,328 @@
+﻿location,location_code,geographic_level,time_period,school_type,perm_excl_rate
+Not available,:,localAuthorityDistrict,201718,Total,0.101471334
+County Durham,E06000047,localAuthorityDistrict,201718,Total,0.122755869
+Darlington,E06000005,localAuthorityDistrict,201718,Total,0.061762708
+Gateshead,E08000037,localAuthorityDistrict,201718,Total,0.200640642
+Hartlepool,E06000001,localAuthorityDistrict,201718,Total,0.07240653
+Middlesbrough,E06000002,localAuthorityDistrict,201718,Total,0.173575237
+Newcastle upon Tyne,E08000021,localAuthorityDistrict,201718,Total,0.148798265
+North Tyneside,E08000022,localAuthorityDistrict,201718,Total,0.058673968
+Northumberland,E06000057,localAuthorityDistrict,201718,Total,0.187816249
+Redcar and Cleveland,E06000003,localAuthorityDistrict,201718,Total,0.26902558
+South Tyneside,E08000023,localAuthorityDistrict,201718,Total,0.170271514
+Stockton-on-Tees,E06000004,localAuthorityDistrict,201718,Total,0.127347978
+Sunderland,E08000024,localAuthorityDistrict,201718,Total,0.131834237
+Allerdale,E07000026,localAuthorityDistrict,201718,Total,0.143081011
+Barrow-in-Furness,E07000027,localAuthorityDistrict,201718,Total,0.160444967
+Blackburn with Darwen,E06000008,localAuthorityDistrict,201718,Total,0.033464713
+Blackpool,E06000009,localAuthorityDistrict,201718,Total,0.223749401
+Bolton,E08000001,localAuthorityDistrict,201718,Total,0.142981475
+Burnley,E07000117,localAuthorityDistrict,201718,Total,0.208209399
+Bury,E08000002,localAuthorityDistrict,201718,Total,0.193535244
+Carlisle,E07000028,localAuthorityDistrict,201718,Total,0.16016016
+Cheshire East,E06000049,localAuthorityDistrict,201718,Total,0.080376837
+Cheshire West and Chester,E06000050,localAuthorityDistrict,201718,Total,0.048750762
+Chorley,E07000118,localAuthorityDistrict,201718,Total,0.138752385
+Copeland,E07000029,localAuthorityDistrict,201718,Total,0.166389351
+Eden,E07000030,localAuthorityDistrict,201718,Total,0.084530854
+Fylde,E07000119,localAuthorityDistrict,201718,Total,0.188479208
+Halton,E06000006,localAuthorityDistrict,201718,Total,0.109706405
+Hyndburn,E07000120,localAuthorityDistrict,201718,Total,0.209010683
+Knowsley,E08000011,localAuthorityDistrict,201718,Total,0.065293822
+Lancaster,E07000121,localAuthorityDistrict,201718,Total,0.173812283
+Liverpool,E08000012,localAuthorityDistrict,201718,Total,0.125184299
+Manchester,E08000003,localAuthorityDistrict,201718,Total,0.128147852
+Oldham,E08000004,localAuthorityDistrict,201718,Total,0.107603196
+Pendle,E07000122,localAuthorityDistrict,201718,Total,0.239408009
+Preston,E07000123,localAuthorityDistrict,201718,Total,0.254413292
+Ribble Valley,E07000124,localAuthorityDistrict,201718,Total,0.195293428
+Rochdale,E08000005,localAuthorityDistrict,201718,Total,0.168771624
+Rossendale,E07000125,localAuthorityDistrict,201718,Total,0.204046931
+Salford,E08000006,localAuthorityDistrict,201718,Total,0.168137873
+Sefton,E08000014,localAuthorityDistrict,201718,Total,0.098654255
+South Lakeland,E07000031,localAuthorityDistrict,201718,Total,0.092903595
+South Ribble,E07000126,localAuthorityDistrict,201718,Total,0.256050722
+St. Helens,E08000013,localAuthorityDistrict,201718,Total,0.041602057
+Stockport,E08000007,localAuthorityDistrict,201718,Total,0.10654527
+Tameside,E08000008,localAuthorityDistrict,201718,Total,0.268794857
+Trafford,E08000009,localAuthorityDistrict,201718,Total,0.162286545
+Warrington,E06000007,localAuthorityDistrict,201718,Total,0.024819285
+West Lancashire,E07000127,localAuthorityDistrict,201718,Total,0.158147773
+Wigan,E08000010,localAuthorityDistrict,201718,Total,0.079431528
+Wirral,E08000015,localAuthorityDistrict,201718,Total,0.090541438
+Wyre,E07000128,localAuthorityDistrict,201718,Total,0.079675503
+Barnsley,E08000016,localAuthorityDistrict,201718,Total,0.133495506
+Bradford,E08000032,localAuthorityDistrict,201718,Total,0.025240288
+Calderdale,E08000033,localAuthorityDistrict,201718,Total,0.117979532
+Craven,E07000163,localAuthorityDistrict,201718,Total,0.090303646
+Doncaster,E08000017,localAuthorityDistrict,201718,Total,0.088674943
+East Riding of Yorkshire,E06000011,localAuthorityDistrict,201718,Total,0.074988972
+Hambleton,E07000164,localAuthorityDistrict,201718,Total,0.163013947
+Harrogate,E07000165,localAuthorityDistrict,201718,Total,0.085316952
+Kingston upon Hull City of,E06000010,localAuthorityDistrict,201718,Total,0.114939657
+Kirklees,E08000034,localAuthorityDistrict,201718,Total,0.10674732
+Leeds,E08000035,localAuthorityDistrict,201718,Total,0.004890972
+North East Lincolnshire,E06000012,localAuthorityDistrict,201718,Total,0.173618463
+North Lincolnshire,E06000013,localAuthorityDistrict,201718,Total,0.10679811
+Richmondshire,E07000166,localAuthorityDistrict,201718,Total,0.060652009
+Rotherham,E08000018,localAuthorityDistrict,201718,Total,0.085670484
+Ryedale,E07000167,localAuthorityDistrict,201718,Total,0.071479628
+Scarborough,E07000168,localAuthorityDistrict,201718,Total,0.195415257
+Selby,E07000169,localAuthorityDistrict,201718,Total,0.126957258
+Sheffield,E08000019,localAuthorityDistrict,201718,Total,0.154827754
+Wakefield,E08000036,localAuthorityDistrict,201718,Total,0.127696882
+York,E06000014,localAuthorityDistrict,201718,Total,0.019882297
+Amber Valley,E07000032,localAuthorityDistrict,201718,Total,0.129606672
+Ashfield,E07000170,localAuthorityDistrict,201718,Total,0.005164489
+Bassetlaw,E07000171,localAuthorityDistrict,201718,Total,0.112746262
+Blaby,E07000129,localAuthorityDistrict,201718,Total,0.025083612
+Bolsover,E07000033,localAuthorityDistrict,201718,Total,0.40995062
+Boston,E07000136,localAuthorityDistrict,201718,Total,0.142580711
+Broxtowe,E07000172,localAuthorityDistrict,201718,Total,0.039190072
+Charnwood,E07000130,localAuthorityDistrict,201718,Total,0.026065424
+Chesterfield,E07000034,localAuthorityDistrict,201718,Total,0.20150806
+Corby,E07000150,localAuthorityDistrict,201718,Total,0.121496841
+Daventry,E07000151,localAuthorityDistrict,201718,Total,0.125684532
+Derby,E06000015,localAuthorityDistrict,201718,Total,0.150708802
+Derbyshire Dales,E07000035,localAuthorityDistrict,201718,Total,0.062926062
+East Lindsey,E07000137,localAuthorityDistrict,201718,Total,0.177001256
+East Northamptonshire,E07000152,localAuthorityDistrict,201718,Total,0.16185365
+Erewash,E07000036,localAuthorityDistrict,201718,Total,0.159979523
+Gedling,E07000173,localAuthorityDistrict,201718,Total,0.109523027
+Harborough,E07000131,localAuthorityDistrict,201718,Total,0.015503876
+High Peak,E07000037,localAuthorityDistrict,201718,Total,0.159022431
+Hinckley and Bosworth,E07000132,localAuthorityDistrict,201718,Total,0.039552492
+Kettering,E07000153,localAuthorityDistrict,201718,Total,0.053908356
+Leicester,E06000016,localAuthorityDistrict,201718,Total,0.037688442
+Lincoln,E07000138,localAuthorityDistrict,201718,Total,0.06466911
+Mansfield,E07000174,localAuthorityDistrict,201718,Total,0
+Melton,E07000133,localAuthorityDistrict,201718,Total,0.102835317
+Newark and Sherwood,E07000175,localAuthorityDistrict,201718,Total,0.006705559
+North East Derbyshire,E07000038,localAuthorityDistrict,201718,Total,0.162162162
+North Kesteven,E07000139,localAuthorityDistrict,201718,Total,0.070134424
+North West Leicestershire,E07000134,localAuthorityDistrict,201718,Total,0.007304602
+Northampton,E07000154,localAuthorityDistrict,201718,Total,0.066148979
+Nottingham,E06000018,localAuthorityDistrict,201718,Total,0.120602558
+Oadby and Wigston,E07000135,localAuthorityDistrict,201718,Total,0.00879817
+Rushcliffe,E07000176,localAuthorityDistrict,201718,Total,0.04039996
+Rutland,E06000017,localAuthorityDistrict,201718,Total,0.053648069
+South Derbyshire,E07000039,localAuthorityDistrict,201718,Total,0.0633563
+South Holland,E07000140,localAuthorityDistrict,201718,Total,0.032074413
+South Kesteven,E07000141,localAuthorityDistrict,201718,Total,0.093348891
+South Northamptonshire,E07000155,localAuthorityDistrict,201718,Total,0.113344867
+Wellingborough,E07000156,localAuthorityDistrict,201718,Total,0.185036203
+West Lindsey,E07000142,localAuthorityDistrict,201718,Total,0.113481616
+Birmingham,E08000025,localAuthorityDistrict,201718,Total,0.113241771
+Bromsgrove,E07000234,localAuthorityDistrict,201718,Total,0.062699856
+Cannock Chase,E07000192,localAuthorityDistrict,201718,Total,0.276614242
+Coventry,E08000026,localAuthorityDistrict,201718,Total,0.129619961
+Dudley,E08000027,localAuthorityDistrict,201718,Total,0.198634913
+East Staffordshire,E07000193,localAuthorityDistrict,201718,Total,0.11308147
+Herefordshire County of,E06000019,localAuthorityDistrict,201718,Total,0.0723589
+Lichfield,E07000194,localAuthorityDistrict,201718,Total,0.098412282
+Malvern Hills,E07000235,localAuthorityDistrict,201718,Total,0.13613991
+Newcastle-under-Lyme,E07000195,localAuthorityDistrict,201718,Total,0.176090785
+North Warwickshire,E07000218,localAuthorityDistrict,201718,Total,0.083433763
+Nuneaton and Bedworth,E07000219,localAuthorityDistrict,201718,Total,0.115543329
+Redditch,E07000236,localAuthorityDistrict,201718,Total,0.148649765
+Rugby,E07000220,localAuthorityDistrict,201718,Total,0.074524904
+Sandwell,E08000028,localAuthorityDistrict,201718,Total,0.143259232
+Shropshire,E06000051,localAuthorityDistrict,201718,Total,0.159166175
+Solihull,E08000029,localAuthorityDistrict,201718,Total,0.148702697
+South Staffordshire,E07000196,localAuthorityDistrict,201718,Total,0.130404942
+Stafford,E07000197,localAuthorityDistrict,201718,Total,0.13845413
+Staffordshire Moorlands,E07000198,localAuthorityDistrict,201718,Total,0.080704822
+Stoke-on-Trent,E06000021,localAuthorityDistrict,201718,Total,0.124990434
+Stratford-on-Avon,E07000221,localAuthorityDistrict,201718,Total,0.088601657
+Tamworth,E07000199,localAuthorityDistrict,201718,Total,0.081185305
+Telford and Wrekin,E06000020,localAuthorityDistrict,201718,Total,0.072110432
+Walsall,E08000030,localAuthorityDistrict,201718,Total,0.11481527
+Warwick,E07000222,localAuthorityDistrict,201718,Total,0.102957158
+Wolverhampton,E08000031,localAuthorityDistrict,201718,Total,0.22931734
+Worcester,E07000237,localAuthorityDistrict,201718,Total,0.120362504
+Wychavon,E07000238,localAuthorityDistrict,201718,Total,0.094793148
+Wyre Forest,E07000239,localAuthorityDistrict,201718,Total,0.099785078
+Babergh,E07000200,localAuthorityDistrict,201718,Total,0.069908342
+Basildon,E07000066,localAuthorityDistrict,201718,Total,0.044051246
+Bedford,E06000055,localAuthorityDistrict,201718,Total,0.191781795
+Braintree,E07000067,localAuthorityDistrict,201718,Total,0.045126354
+Breckland,E07000143,localAuthorityDistrict,201718,Total,0.138287638
+Brentwood,E07000068,localAuthorityDistrict,201718,Total,0.104042806
+Broadland,E07000144,localAuthorityDistrict,201718,Total,0.069869934
+Broxbourne,E07000095,localAuthorityDistrict,201718,Total,0.162003863
+Cambridge,E07000008,localAuthorityDistrict,201718,Total,0.014841199
+Castle Point,E07000069,localAuthorityDistrict,201718,Total,0.015134317
+Central Bedfordshire,E06000056,localAuthorityDistrict,201718,Total,0.128918442
+Chelmsford,E07000070,localAuthorityDistrict,201718,Total,0.037221767
+Colchester,E07000071,localAuthorityDistrict,201718,Total,0.026053298
+Dacorum,E07000096,localAuthorityDistrict,201718,Total,0.073418268
+East Cambridgeshire,E07000009,localAuthorityDistrict,201718,Total,0.008052178
+East Hertfordshire,E07000242,localAuthorityDistrict,201718,Total,0.095870206
+Epping Forest,E07000072,localAuthorityDistrict,201718,Total,0.055418719
+Fenland,E07000010,localAuthorityDistrict,201718,Total,0
+Forest Heath,E07000201,localAuthorityDistrict,201718,Total,0.030367446
+Great Yarmouth,E07000145,localAuthorityDistrict,201718,Total,0.349676363
+Harlow,E07000073,localAuthorityDistrict,201718,Total,0.056298381
+Hertsmere,E07000098,localAuthorityDistrict,201718,Total,0.068379965
+Huntingdonshire,E07000011,localAuthorityDistrict,201718,Total,0.012764871
+Ipswich,E07000202,localAuthorityDistrict,201718,Total,0.151781056
+King's Lynn and West Norfolk,E07000146,localAuthorityDistrict,201718,Total,0.279801499
+Luton,E06000032,localAuthorityDistrict,201718,Total,0.148085466
+Maldon,E07000074,localAuthorityDistrict,201718,Total,0.074150971
+Mid Suffolk,E07000203,localAuthorityDistrict,201718,Total,0.0743605
+North Hertfordshire,E07000099,localAuthorityDistrict,201718,Total,0.047283808
+North Norfolk,E07000147,localAuthorityDistrict,201718,Total,0.177255341
+Norwich,E07000148,localAuthorityDistrict,201718,Total,0.193684705
+Peterborough,E06000031,localAuthorityDistrict,201718,Total,0.103003361
+Rochford,E07000075,localAuthorityDistrict,201718,Total,0.096230954
+South Cambridgeshire,E07000012,localAuthorityDistrict,201718,Total,0.004467277
+South Norfolk,E07000149,localAuthorityDistrict,201718,Total,0.129533679
+Southend-on-Sea,E06000033,localAuthorityDistrict,201718,Total,0.054443991
+St Albans,E07000240,localAuthorityDistrict,201718,Total,0.067745846
+St Edmundsbury,E07000204,localAuthorityDistrict,201718,Total,0.067381317
+Stevenage,E07000243,localAuthorityDistrict,201718,Total,0.100118891
+Suffolk Coastal,E07000205,localAuthorityDistrict,201718,Total,0.099875156
+Tendring,E07000076,localAuthorityDistrict,201718,Total,0.031277694
+Three Rivers,E07000102,localAuthorityDistrict,201718,Total,0.054105235
+Thurrock,E06000034,localAuthorityDistrict,201718,Total,0.123365408
+Uttlesford,E07000077,localAuthorityDistrict,201718,Total,0.017174753
+Watford,E07000103,localAuthorityDistrict,201718,Total,0.048916841
+Waveney,E07000206,localAuthorityDistrict,201718,Total,0.11654257
+Welwyn Hatfield,E07000241,localAuthorityDistrict,201718,Total,0.110810145
+Adur,E07000223,localAuthorityDistrict,201718,Total,0.092506938
+Arun,E07000224,localAuthorityDistrict,201718,Total,0.142786534
+Ashford,E07000105,localAuthorityDistrict,201718,Total,0
+Aylesbury Vale,E07000004,localAuthorityDistrict,201718,Total,0.108813928
+Basingstoke and Deane,E07000084,localAuthorityDistrict,201718,Total,0.030116594
+Bracknell Forest,E06000036,localAuthorityDistrict,201718,Total,0.089350533
+Brighton and Hove,E06000043,localAuthorityDistrict,201718,Total,0.034355675
+Canterbury,E07000106,localAuthorityDistrict,201718,Total,0.004860031
+Cherwell,E07000177,localAuthorityDistrict,201718,Total,0.062605346
+Chichester,E07000225,localAuthorityDistrict,201718,Total,0.07713885
+Chiltern,E07000005,localAuthorityDistrict,201718,Total,0.063312996
+Crawley,E07000226,localAuthorityDistrict,201718,Total,0.186696538
+Dartford,E07000107,localAuthorityDistrict,201718,Total,0.034325504
+Dover,E07000108,localAuthorityDistrict,201718,Total,0.018488845
+East Hampshire,E07000085,localAuthorityDistrict,201718,Total,0.032158477
+Eastbourne,E07000061,localAuthorityDistrict,201718,Total,0.107025457
+Eastleigh,E07000086,localAuthorityDistrict,201718,Total,0.005459111
+Elmbridge,E07000207,localAuthorityDistrict,201718,Total,0.075395828
+Epsom and Ewell,E07000208,localAuthorityDistrict,201718,Total,0.050783517
+Fareham,E07000087,localAuthorityDistrict,201718,Total,0.038644854
+Gosport,E07000088,localAuthorityDistrict,201718,Total,0.167644593
+Gravesham,E07000109,localAuthorityDistrict,201718,Total,0.016632478
+Guildford,E07000209,localAuthorityDistrict,201718,Total,0.061425061
+Hart,E07000089,localAuthorityDistrict,201718,Total,0
+Hastings,E07000062,localAuthorityDistrict,201718,Total,0.257503108
+Havant,E07000090,localAuthorityDistrict,201718,Total,0.05891209
+Horsham,E07000227,localAuthorityDistrict,201718,Total,0.059824876
+Isle of Wight,E06000046,localAuthorityDistrict,201718,Total,0.077760498
+Lewes,E07000063,localAuthorityDistrict,201718,Total,0.062710669
+Maidstone,E07000110,localAuthorityDistrict,201718,Total,0.031404569
+Medway,E06000035,localAuthorityDistrict,201718,Total,0.129306566
+Mid Sussex,E07000228,localAuthorityDistrict,201718,Total,0.048360576
+Milton Keynes,E06000042,localAuthorityDistrict,201718,Total,0.021395409
+Mole Valley,E07000210,localAuthorityDistrict,201718,Total,0
+New Forest,E07000091,localAuthorityDistrict,201718,Total,0.018774935
+Oxford,E07000178,localAuthorityDistrict,201718,Total,0.085290271
+Portsmouth,E06000044,localAuthorityDistrict,201718,Total,0.073594918
+Reading,E06000038,localAuthorityDistrict,201718,Total,0.088735081
+Reigate and Banstead,E07000211,localAuthorityDistrict,201718,Total,0.035811122
+Rother,E07000064,localAuthorityDistrict,201718,Total,0.202055697
+Runnymede,E07000212,localAuthorityDistrict,201718,Total,0.054416833
+Rushmoor,E07000092,localAuthorityDistrict,201718,Total,0.035835872
+Sevenoaks,E07000111,localAuthorityDistrict,201718,Total,0.007917656
+Shepway,E07000112,localAuthorityDistrict,201718,Total,0.033174098
+Slough,E06000039,localAuthorityDistrict,201718,Total,0.029950083
+South Bucks,E07000006,localAuthorityDistrict,201718,Total,0.088760679
+South Oxfordshire,E07000179,localAuthorityDistrict,201718,Total,0.028009897
+Southampton,E06000045,localAuthorityDistrict,201718,Total,0.035290343
+Spelthorne,E07000213,localAuthorityDistrict,201718,Total,0.092744525
+Surrey Heath,E07000214,localAuthorityDistrict,201718,Total,0.0166044
+Swale,E07000113,localAuthorityDistrict,201718,Total,0
+Tandridge,E07000215,localAuthorityDistrict,201718,Total,0.045199783
+Test Valley,E07000093,localAuthorityDistrict,201718,Total,0.031187625
+Thanet,E07000114,localAuthorityDistrict,201718,Total,0
+Tonbridge and Malling,E07000115,localAuthorityDistrict,201718,Total,0.028593214
+Tunbridge Wells,E07000116,localAuthorityDistrict,201718,Total,0.021527367
+Vale of White Horse,E07000180,localAuthorityDistrict,201718,Total,0.022853225
+Waverley,E07000216,localAuthorityDistrict,201718,Total,0.036814333
+Wealden,E07000065,localAuthorityDistrict,201718,Total,0.048596112
+West Berkshire,E06000037,localAuthorityDistrict,201718,Total,0.066073302
+West Oxfordshire,E07000181,localAuthorityDistrict,201718,Total,0.024243894
+Winchester,E07000094,localAuthorityDistrict,201718,Total,0.019329897
+Windsor and Maidenhead,E06000040,localAuthorityDistrict,201718,Total,0.069444444
+Woking,E07000217,localAuthorityDistrict,201718,Total,0
+Wokingham,E06000041,localAuthorityDistrict,201718,Total,0.058038305
+Worthing,E07000229,localAuthorityDistrict,201718,Total,0.220158239
+Wycombe,E07000007,localAuthorityDistrict,201718,Total,0.048919997
+Bath and North East Somerset,E06000022,localAuthorityDistrict,201718,Total,0.115143186
+Bournemouth,E06000028,localAuthorityDistrict,201718,Total,0.221408499
+Bristol City of,E06000023,localAuthorityDistrict,201718,Total,0.023932851
+Cheltenham,E07000078,localAuthorityDistrict,201718,Total,0.200678154
+Christchurch,E07000048,localAuthorityDistrict,201718,Total,0.192864031
+Cornwall,E06000052,localAuthorityDistrict,201718,Total,0.100702156
+Cotswold,E07000079,localAuthorityDistrict,201718,Total,0.102546573
+East Devon,E07000040,localAuthorityDistrict,201718,Total,0.132868294
+East Dorset,E07000049,localAuthorityDistrict,201718,Total,0.089383256
+Exeter,E07000041,localAuthorityDistrict,201718,Total,0.125
+Forest of Dean,E07000080,localAuthorityDistrict,201718,Total,0.137551582
+Gloucester,E07000081,localAuthorityDistrict,201718,Total,0.162376427
+Isles of Scilly,E06000053,localAuthorityDistrict,201718,Total,0
+Mendip,E07000187,localAuthorityDistrict,201718,Total,0.085476174
+Mid Devon,E07000042,localAuthorityDistrict,201718,Total,0.105293386
+North Devon,E07000043,localAuthorityDistrict,201718,Total,0.102152499
+North Dorset,E07000050,localAuthorityDistrict,201718,Total,0.107863229
+North Somerset,E06000024,localAuthorityDistrict,201718,Total,0.149046105
+Plymouth,E06000026,localAuthorityDistrict,201718,Total,0.103111386
+Poole,E06000029,localAuthorityDistrict,201718,Total,0.196341841
+Purbeck,E07000051,localAuthorityDistrict,201718,Total,0.049067713
+Sedgemoor,E07000188,localAuthorityDistrict,201718,Total,0.220434912
+South Gloucestershire,E06000025,localAuthorityDistrict,201718,Total,0.143072482
+South Hams,E07000044,localAuthorityDistrict,201718,Total,0.104329682
+South Somerset,E07000189,localAuthorityDistrict,201718,Total,0.223822499
+Stroud,E07000082,localAuthorityDistrict,201718,Total,0.114313218
+Swindon,E06000030,localAuthorityDistrict,201718,Total,0.097041699
+Taunton Deane,E07000190,localAuthorityDistrict,201718,Total,0.093620436
+Teignbridge,E07000045,localAuthorityDistrict,201718,Total,0.086185669
+Tewkesbury,E07000083,localAuthorityDistrict,201718,Total,0.096393285
+Torbay,E06000027,localAuthorityDistrict,201718,Total,0.24702561
+Torridge,E07000046,localAuthorityDistrict,201718,Total,0.025910092
+West Devon,E07000047,localAuthorityDistrict,201718,Total,0.151377536
+West Dorset,E07000052,localAuthorityDistrict,201718,Total,0.056099233
+West Somerset,E07000191,localAuthorityDistrict,201718,Total,0.031318509
+Weymouth and Portland,E07000053,localAuthorityDistrict,201718,Total,0.250661468
+Wiltshire,E06000054,localAuthorityDistrict,201718,Total,0.032282205
+Camden,E09000007,localAuthorityDistrict,201718,Total,0.094216878
+City of London,E09000001,localAuthorityDistrict,201718,Total,0
+Hackney,E09000012,localAuthorityDistrict,201718,Total,0.150803318
+Hammersmith and Fulham,E09000013,localAuthorityDistrict,201718,Total,0.13723472
+Haringey,E09000014,localAuthorityDistrict,201718,Total,0.067934783
+Islington,E09000019,localAuthorityDistrict,201718,Total,0.107189974
+Kensington and Chelsea,E09000020,localAuthorityDistrict,201718,Total,0.164783427
+Lambeth,E09000022,localAuthorityDistrict,201718,Total,0.116427044
+Lewisham,E09000023,localAuthorityDistrict,201718,Total,0.123453742
+Newham,E09000025,localAuthorityDistrict,201718,Total,0.062715585
+Southwark,E09000028,localAuthorityDistrict,201718,Total,0.114829396
+Tower Hamlets,E09000030,localAuthorityDistrict,201718,Total,0.015901863
+Wandsworth,E09000032,localAuthorityDistrict,201718,Total,0.056552668
+Westminster,E09000033,localAuthorityDistrict,201718,Total,0.063918185
+Barking and Dagenham,E09000002,localAuthorityDistrict,201718,Total,0.044036527
+Barnet,E09000003,localAuthorityDistrict,201718,Total,0.05292032
+Bexley,E09000004,localAuthorityDistrict,201718,Total,0.123366536
+Brent,E09000005,localAuthorityDistrict,201718,Total,0.061167068
+Bromley,E09000006,localAuthorityDistrict,201718,Total,0.114411962
+Croydon,E09000008,localAuthorityDistrict,201718,Total,0.064750971
+Ealing,E09000009,localAuthorityDistrict,201718,Total,0.111744329
+Enfield,E09000010,localAuthorityDistrict,201718,Total,0.097545949
+Greenwich,E09000011,localAuthorityDistrict,201718,Total,0.032978423
+Harrow,E09000015,localAuthorityDistrict,201718,Total,0.121816168
+Havering,E09000016,localAuthorityDistrict,201718,Total,0.094571107
+Hillingdon,E09000017,localAuthorityDistrict,201718,Total,0.090252708
+Hounslow,E09000018,localAuthorityDistrict,201718,Total,0.087616149
+Kingston upon Thames,E09000021,localAuthorityDistrict,201718,Total,0.023986568
+Merton,E09000024,localAuthorityDistrict,201718,Total,0.031364349
+Redbridge,E09000026,localAuthorityDistrict,201718,Total,0.073488556
+Richmond upon Thames,E09000027,localAuthorityDistrict,201718,Total,0.040659422
+Sutton,E09000029,localAuthorityDistrict,201718,Total,0.050738377
+Waltham Forest,E09000031,localAuthorityDistrict,201718,Total,0.068936992

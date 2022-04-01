@@ -1,0 +1,150 @@
+﻿location,location_code,geographic_level,time_period,characteristic_value,pc_achieving_atleast_two_alev,pc_achieving_aab_or_better_alev
+County Durham,E06000047,localAuthority,201819,All state-funded students,69.924,21.32
+Darlington,E06000005,localAuthority,201819,All state-funded students,76.476,17.542
+Gateshead,E08000037,localAuthority,201819,All state-funded students,72.591,14.134
+Hartlepool,E06000001,localAuthority,201819,All state-funded students,70.455,10.169
+Middlesbrough,E06000002,localAuthority,201819,All state-funded students,63.257,9.119
+Newcastle upon Tyne,E08000021,localAuthority,201819,All state-funded students,78.499,16.9
+North Tyneside,E08000022,localAuthority,201819,All state-funded students,76.954,16.022
+Northumberland,E06000048,localAuthority,201819,All state-funded students,72.226,20.116
+Redcar and Cleveland,E06000003,localAuthority,201819,All state-funded students,76.737,13.093
+South Tyneside,E08000023,localAuthority,201819,All state-funded students,78.399,15.945
+Stockton-on-Tees,E06000004,localAuthority,201819,All state-funded students,77.986,18.44
+Sunderland,E08000024,localAuthority,201819,All state-funded students,68.297,12.048
+Blackburn with Darwen,E06000008,localAuthority,201819,All state-funded students,79.027,10.546
+Blackpool,E06000009,localAuthority,201819,All state-funded students,75.493,13.189
+Bolton,E08000001,localAuthority,201819,All state-funded students,80.199,7.968
+Bury,E08000002,localAuthority,201819,All state-funded students,81.464,14.481
+Cheshire East,E06000049,localAuthority,201819,All state-funded students,80.694,18.56
+Cheshire West and Chester,E06000050,localAuthority,201819,All state-funded students,84.41,23.189
+Cumbria,E10000006,localAuthority,201819,All state-funded students,74.951,17.986
+Halton,E06000006,localAuthority,201819,All state-funded students,78.311,9.226
+Knowsley,E08000011,localAuthority,201819,All state-funded students,41.667,0
+Lancashire,E10000017,localAuthority,201819,All state-funded students,82.454,20.464
+Liverpool,E08000012,localAuthority,201819,All state-funded students,72.829,14.921
+Manchester,E08000003,localAuthority,201819,All state-funded students,84.405,15.215
+Oldham,E08000004,localAuthority,201819,All state-funded students,75.361,11.407
+Rochdale,E08000005,localAuthority,201819,All state-funded students,75.776,11.262
+Salford,E08000006,localAuthority,201819,All state-funded students,57.471,7.95
+Sefton,E08000014,localAuthority,201819,All state-funded students,71.076,10.736
+St. Helens,E08000013,localAuthority,201819,All state-funded students,74.656,11.931
+Stockport,E08000007,localAuthority,201819,All state-funded students,79.887,13.836
+Tameside,E08000008,localAuthority,201819,All state-funded students,74.8,11.011
+Trafford,E08000009,localAuthority,201819,All state-funded students,93.976,35.514
+Warrington,E06000007,localAuthority,201819,All state-funded students,60.469,12.234
+Wigan,E08000010,localAuthority,201819,All state-funded students,86.772,17.371
+Wirral,E08000015,localAuthority,201819,All state-funded students,79.865,17.93
+Barnsley,E08000016,localAuthority,201819,All state-funded students,78.389,13.699
+Bradford,E08000032,localAuthority,201819,All state-funded students,72.921,10.522
+Calderdale,E08000033,localAuthority,201819,All state-funded students,76.037,14.815
+Doncaster,E08000017,localAuthority,201819,All state-funded students,74.689,12.088
+East Riding of Yorkshire,E06000011,localAuthority,201819,All state-funded students,73.315,13.95
+"Kingston upon Hull, City of",E06000010,localAuthority,201819,All state-funded students,75.766,12.814
+Kirklees,E08000034,localAuthority,201819,All state-funded students,83.27,21.211
+Leeds,E08000035,localAuthority,201819,All state-funded students,74.604,14.489
+North East Lincolnshire,E06000012,localAuthority,201819,All state-funded students,70.636,11.467
+North Lincolnshire,E06000013,localAuthority,201819,All state-funded students,62.519,9.109
+North Yorkshire,E10000023,localAuthority,201819,All state-funded students,79.53,22.799
+Rotherham,E08000018,localAuthority,201819,All state-funded students,69.633,10.116
+Sheffield,E08000019,localAuthority,201819,All state-funded students,78.157,19.765
+Wakefield,E08000036,localAuthority,201819,All state-funded students,79.733,12.925
+York,E06000014,localAuthority,201819,All state-funded students,71.116,26.426
+Derby,E06000015,localAuthority,201819,All state-funded students,81.752,12.896
+Derbyshire,E10000007,localAuthority,201819,All state-funded students,80.706,16.743
+Leicester,E06000016,localAuthority,201819,All state-funded students,78.283,15.58
+Leicestershire,E10000018,localAuthority,201819,All state-funded students,80.145,14.454
+Lincolnshire,E10000019,localAuthority,201819,All state-funded students,79.2,17.413
+Northamptonshire,E10000021,localAuthority,201819,All state-funded students,80.391,12.327
+Nottingham,E06000018,localAuthority,201819,All state-funded students,73.011,14.996
+Nottinghamshire,E10000024,localAuthority,201819,All state-funded students,78.711,15.482
+Rutland,E06000017,localAuthority,201819,All state-funded students,95.192,20.792
+Birmingham,E08000025,localAuthority,201819,All state-funded students,73.244,19.072
+Coventry,E08000026,localAuthority,201819,All state-funded students,73.398,12.176
+Dudley,E08000027,localAuthority,201819,All state-funded students,79.487,16.616
+"Herefordshire, County of",E06000019,localAuthority,201819,All state-funded students,79.254,16.083
+Sandwell,E08000028,localAuthority,201819,All state-funded students,62.246,5.213
+Shropshire,E06000051,localAuthority,201819,All state-funded students,86.194,12.04
+Solihull,E08000029,localAuthority,201819,All state-funded students,88.42,13.861
+Staffordshire,E10000028,localAuthority,201819,All state-funded students,78.182,10.665
+Stoke-on-Trent,E06000021,localAuthority,201819,All state-funded students,78.563,9.421
+Telford and Wrekin,E06000020,localAuthority,201819,All state-funded students,75.137,22.624
+Walsall,E08000030,localAuthority,201819,All state-funded students,74.598,13.601
+Warwickshire,E10000031,localAuthority,201819,All state-funded students,80.85,20.597
+Wolverhampton,E08000031,localAuthority,201819,All state-funded students,68.493,12.802
+Worcestershire,E10000034,localAuthority,201819,All state-funded students,75.234,12.854
+Bedford,E06000055,localAuthority,201819,All state-funded students,72.271,13.966
+Cambridgeshire,E10000003,localAuthority,201819,All state-funded students,84.447,23.504
+Central Bedfordshire,E06000056,localAuthority,201819,All state-funded students,74.401,13.325
+Essex,E10000012,localAuthority,201819,All state-funded students,79.937,17.376
+Hertfordshire,E10000015,localAuthority,201819,All state-funded students,85.127,22.184
+Luton,E06000032,localAuthority,201819,All state-funded students,78.478,10.011
+Norfolk,E10000020,localAuthority,201819,All state-funded students,77.27,15.002
+Peterborough,E06000031,localAuthority,201819,All state-funded students,72.564,17.15
+Southend-on-Sea,E06000033,localAuthority,201819,All state-funded students,87.603,19.88
+Suffolk,E10000029,localAuthority,201819,All state-funded students,75.322,15.149
+Thurrock,E06000034,localAuthority,201819,All state-funded students,70.498,12.921
+Barking and Dagenham,E09000002,localAuthority,201819,All state-funded students,75.396,11.729
+Barnet,E09000003,localAuthority,201819,All state-funded students,88.007,27.296
+Bexley,E09000004,localAuthority,201819,All state-funded students,78.362,17.117
+Brent,E09000005,localAuthority,201819,All state-funded students,78.581,20.833
+Bromley,E09000006,localAuthority,201819,All state-funded students,81.299,21.113
+Camden,E09000007,localAuthority,201819,All state-funded students,78.617,12.352
+Croydon,E09000008,localAuthority,201819,All state-funded students,66.049,9.717
+Ealing,E09000009,localAuthority,201819,All state-funded students,84.918,17.228
+Enfield,E09000010,localAuthority,201819,All state-funded students,75.337,16.409
+Greenwich,E09000011,localAuthority,201819,All state-funded students,71.969,8.903
+Hackney,E09000012,localAuthority,201819,All state-funded students,73.142,14.444
+Hammersmith and Fulham,E09000013,localAuthority,201819,All state-funded students,76.145,18.78
+Haringey,E09000014,localAuthority,201819,All state-funded students,73.976,19.277
+Harrow,E09000015,localAuthority,201819,All state-funded students,87.632,17.718
+Havering,E09000016,localAuthority,201819,All state-funded students,79.742,11.952
+Hillingdon,E09000017,localAuthority,201819,All state-funded students,71.671,11.87
+Hounslow,E09000018,localAuthority,201819,All state-funded students,82.191,13.047
+Islington,E09000019,localAuthority,201819,All state-funded students,74.877,12.416
+Kensington and Chelsea,E09000020,localAuthority,201819,All state-funded students,76.52,17.842
+Kingston upon Thames,E09000021,localAuthority,201819,All state-funded students,83.891,31.601
+Lambeth,E09000022,localAuthority,201819,All state-funded students,75.586,22.243
+Lewisham,E09000023,localAuthority,201819,All state-funded students,78.741,8.532
+Merton,E09000024,localAuthority,201819,All state-funded students,76.398,14.097
+Newham,E09000025,localAuthority,201819,All state-funded students,87.023,32.355
+Redbridge,E09000026,localAuthority,201819,All state-funded students,83.245,15.608
+Richmond upon Thames,E09000027,localAuthority,201819,All state-funded students,75.294,24.652
+Southwark,E09000028,localAuthority,201819,All state-funded students,81.288,19.643
+Sutton,E09000029,localAuthority,201819,All state-funded students,87.696,31.782
+Tower Hamlets,E09000030,localAuthority,201819,All state-funded students,73.774,9.971
+Waltham Forest,E09000031,localAuthority,201819,All state-funded students,75.116,6.66
+Wandsworth,E09000032,localAuthority,201819,All state-funded students,76.098,14.17
+Westminster,E09000033,localAuthority,201819,All state-funded students,81.304,24.029
+Bracknell Forest,E06000036,localAuthority,201819,All state-funded students,70.319,12.129
+Brighton and Hove,E06000043,localAuthority,201819,All state-funded students,81.441,25.703
+Buckinghamshire (Pre 2019/20),E10000002,localAuthority,201819,All state-funded students,89.854,32.422
+East Sussex,E10000011,localAuthority,201819,All state-funded students,73.888,13.109
+Hampshire,E10000014,localAuthority,201819,All state-funded students,81.367,19.928
+Isle of Wight,E06000046,localAuthority,201819,All state-funded students,67.351,9.661
+Kent,E10000016,localAuthority,201819,All state-funded students,79.04,19.089
+Medway,E06000035,localAuthority,201819,All state-funded students,76.362,15.558
+Milton Keynes,E06000042,localAuthority,201819,All state-funded students,71.178,12.115
+Oxfordshire,E10000025,localAuthority,201819,All state-funded students,82.56,17.268
+Portsmouth,E06000044,localAuthority,201819,All state-funded students,73.975,6.494
+Reading,E06000038,localAuthority,201819,All state-funded students,87.413,38.8
+Slough,E06000039,localAuthority,201819,All state-funded students,84.626,13.9
+Southampton,E06000045,localAuthority,201819,All state-funded students,62.5,8.831
+Surrey,E10000030,localAuthority,201819,All state-funded students,81.7,18.894
+West Berkshire,E06000037,localAuthority,201819,All state-funded students,79.001,17.819
+West Sussex,E10000032,localAuthority,201819,All state-funded students,74.877,15.811
+Windsor and Maidenhead,E06000040,localAuthority,201819,All state-funded students,83.781,17.566
+Wokingham,E06000041,localAuthority,201819,All state-funded students,86.344,17.386
+Bath and North East Somerset,E06000022,localAuthority,201819,All state-funded students,77.908,17.744
+"Bournemouth, Christchurch and Poole",E06000058,localAuthority,201819,All state-funded students,82.59,21.562
+"Bristol, City of",E06000023,localAuthority,201819,All state-funded students,81.851,16.796
+Cornwall,E06000052,localAuthority,201819,All state-funded students,73.624,18.852
+Devon,E10000008,localAuthority,201819,All state-funded students,72.63,17.995
+Dorset,E06000059,localAuthority,201819,All state-funded students,77.118,14.34
+Gloucestershire,E10000013,localAuthority,201819,All state-funded students,82.808,21.882
+North Somerset,E06000024,localAuthority,201819,All state-funded students,82.045,14.906
+Plymouth,E06000026,localAuthority,201819,All state-funded students,73.917,16.81
+Somerset,E10000027,localAuthority,201819,All state-funded students,79.296,17.143
+South Gloucestershire,E06000025,localAuthority,201819,All state-funded students,71.443,14.152
+Swindon,E06000030,localAuthority,201819,All state-funded students,57.08,7.563
+Torbay,E06000027,localAuthority,201819,All state-funded students,78.07,22.171
+Wiltshire,E06000054,localAuthority,201819,All state-funded students,81.912,21.153

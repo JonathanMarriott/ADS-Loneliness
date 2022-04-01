@@ -1,0 +1,153 @@
+location,location_code,geographic_level,time_period,school_phase,successful_appeals_percentage
+County Durham,E06000047,localAuthority,2018,Total,41.4
+Darlington,E06000005,localAuthority,2018,Total,28.8
+Gateshead,E08000020,localAuthority,2018,Total,20
+Hartlepool,E06000001,localAuthority,2018,Total,25
+Middlesbrough,E06000002,localAuthority,2018,Total,21.7
+Newcastle upon Tyne,E08000021,localAuthority,2018,Total,25.8
+North Tyneside,E08000022,localAuthority,2018,Total,15.4
+Northumberland,E06000048,localAuthority,2018,Total,13.8
+Redcar and Cleveland,E06000003,localAuthority,2018,Total,41.8
+South Tyneside,E08000023,localAuthority,2018,Total,43
+Stockton-on-Tees,E06000004,localAuthority,2018,Total,29
+Sunderland,E08000024,localAuthority,2018,Total,70.2
+Blackburn with Darwen,E06000008,localAuthority,2018,Total,13.3
+Blackpool,E06000009,localAuthority,2018,Total,28.4
+Bolton,E08000001,localAuthority,2018,Total,16.2
+Bury,E08000002,localAuthority,2018,Total,29.5
+Cheshire East,E06000049,localAuthority,2018,Total,18.6
+Cheshire West and Chester,E06000050,localAuthority,2018,Total,21.8
+Cumbria,E10000006,localAuthority,2018,Total,23
+Halton,E06000006,localAuthority,2018,Total,31.5
+Knowsley,E08000011,localAuthority,2018,Total,33.7
+Lancashire,E10000017,localAuthority,2018,Total,37.1
+Liverpool,E08000012,localAuthority,2018,Total,13.1
+Manchester,E08000003,localAuthority,2018,Total,16.7
+Oldham,E08000004,localAuthority,2018,Total,17
+Rochdale,E08000005,localAuthority,2018,Total,11.9
+Salford,E08000006,localAuthority,2018,Total,27.6
+Sefton,E08000014,localAuthority,2018,Total,37.2
+St. Helens,E08000013,localAuthority,2018,Total,19.2
+Stockport,E08000007,localAuthority,2018,Total,27.8
+Tameside,E08000008,localAuthority,2018,Total,18.1
+Trafford,E08000009,localAuthority,2018,Total,17
+Warrington,E06000007,localAuthority,2018,Total,23.9
+Wigan,E08000010,localAuthority,2018,Total,43.3
+Wirral,E08000015,localAuthority,2018,Total,28.9
+Barnsley,E08000016,localAuthority,2018,Total,25.4
+Bradford,E08000032,localAuthority,2018,Total,14.8
+Calderdale,E08000033,localAuthority,2018,Total,24.6
+Doncaster,E08000017,localAuthority,2018,Total,22.6
+East Riding of Yorkshire,E06000011,localAuthority,2018,Total,12.2
+"Kingston upon Hull, City of",E06000010,localAuthority,2018,Total,29.4
+Kirklees,E08000034,localAuthority,2018,Total,37
+Leeds,E08000035,localAuthority,2018,Total,19.5
+North East Lincolnshire,E06000012,localAuthority,2018,Total,41.5
+North Lincolnshire,E06000013,localAuthority,2018,Total,31.7
+North Yorkshire,E10000023,localAuthority,2018,Total,24.5
+Rotherham,E08000018,localAuthority,2018,Total,38.4
+Sheffield,E08000019,localAuthority,2018,Total,20.6
+Wakefield,E08000036,localAuthority,2018,Total,19.1
+York,E06000014,localAuthority,2018,Total,27
+Derby,E06000015,localAuthority,2018,Total,16.3
+Derbyshire,E10000007,localAuthority,2018,Total,47.1
+Leicester,E06000016,localAuthority,2018,Total,16
+Leicestershire,E10000018,localAuthority,2018,Total,32.1
+Lincolnshire,E10000019,localAuthority,2018,Total,47.5
+Northamptonshire,E10000021,localAuthority,2018,Total,16.6
+Nottingham,E06000018,localAuthority,2018,Total,20.1
+Nottinghamshire,E10000024,localAuthority,2018,Total,31.8
+Rutland,E06000017,localAuthority,2018,Total,33.3
+Birmingham,E08000025,localAuthority,2018,Total,5.2
+Coventry,E08000026,localAuthority,2018,Total,25.4
+Dudley,E08000027,localAuthority,2018,Total,18.9
+"Herefordshire, County of",E06000019,localAuthority,2018,Total,14.8
+Sandwell,E08000028,localAuthority,2018,Total,7.5
+Shropshire,E06000051,localAuthority,2018,Total,43.9
+Solihull,E08000029,localAuthority,2018,Total,6.1
+Staffordshire,E10000028,localAuthority,2018,Total,23.6
+Stoke-on-Trent,E06000021,localAuthority,2018,Total,32.7
+Telford and Wrekin,E06000020,localAuthority,2018,Total,44.9
+Walsall,E08000030,localAuthority,2018,Total,22.4
+Warwickshire,E10000031,localAuthority,2018,Total,24.4
+Wolverhampton,E08000031,localAuthority,2018,Total,11.2
+Worcestershire,E10000034,localAuthority,2018,Total,17.6
+Bedford,E06000055,localAuthority,2018,Total,32.6
+Cambridgeshire,E10000003,localAuthority,2018,Total,34.5
+Central Bedfordshire,E06000056,localAuthority,2018,Total,40.6
+Essex,E10000012,localAuthority,2018,Total,19.1
+Hertfordshire,E10000015,localAuthority,2018,Total,16.3
+Luton,E06000032,localAuthority,2018,Total,6.2
+Norfolk,E10000020,localAuthority,2018,Total,30.8
+Peterborough,E06000031,localAuthority,2018,Total,25.6
+Southend-on-Sea,E06000033,localAuthority,2018,Total,16.3
+Suffolk,E10000029,localAuthority,2018,Total,32.3
+Thurrock,E06000034,localAuthority,2018,Total,21.5
+Bracknell Forest,E06000036,localAuthority,2018,Total,13.8
+Brighton and Hove,E06000043,localAuthority,2018,Total,24.6
+Buckinghamshire,E10000002,localAuthority,2018,Total,18.1
+East Sussex,E10000011,localAuthority,2018,Total,13.5
+Hampshire,E10000014,localAuthority,2018,Total,26
+Isle of Wight,E06000046,localAuthority,2018,Total,20
+Kent,E10000016,localAuthority,2018,Total,28.4
+Medway,E06000035,localAuthority,2018,Total,21.6
+Milton Keynes,E06000042,localAuthority,2018,Total,15.2
+Oxfordshire,E10000025,localAuthority,2018,Total,32.8
+Portsmouth,E06000044,localAuthority,2018,Total,15.4
+Reading,E06000038,localAuthority,2018,Total,12.4
+Slough,E06000039,localAuthority,2018,Total,8.5
+Southampton,E06000045,localAuthority,2018,Total,23.5
+Surrey,E10000030,localAuthority,2018,Total,26.7
+West Berkshire,E06000037,localAuthority,2018,Total,27.8
+West Sussex,E10000032,localAuthority,2018,Total,23.4
+Windsor and Maidenhead,E06000040,localAuthority,2018,Total,13.9
+Wokingham,E06000041,localAuthority,2018,Total,18.5
+Bath and North East Somerset,E06000022,localAuthority,2018,Total,26.9
+Bournemouth,E06000028,localAuthority,2018,Total,31.6
+"Bristol, City of",E06000023,localAuthority,2018,Total,17.2
+Cornwall,E06000052,localAuthority,2018,Total,62.1
+Devon,E10000008,localAuthority,2018,Total,14.9
+Dorset,E10000009,localAuthority,2018,Total,40.9
+Gloucestershire,E10000013,localAuthority,2018,Total,43.7
+Isles of Scilly,E06000053,localAuthority,2018,Total,
+North Somerset,E06000024,localAuthority,2018,Total,37
+Plymouth,E06000026,localAuthority,2018,Total,22.7
+Poole,E06000029,localAuthority,2018,Total,43.1
+Somerset,E10000027,localAuthority,2018,Total,19
+South Gloucestershire,E06000025,localAuthority,2018,Total,4.3
+Swindon,E06000030,localAuthority,2018,Total,19.4
+Torbay,E06000027,localAuthority,2018,Total,13.9
+Wiltshire,E06000054,localAuthority,2018,Total,35.8
+Camden,E09000007,localAuthority,2018,Total,26.5
+City of London,E09000001,localAuthority,2018,Total,
+Hackney,E09000012,localAuthority,2018,Total,7.8
+Hammersmith and Fulham,E09000013,localAuthority,2018,Total,5.1
+Haringey,E09000014,localAuthority,2018,Total,10
+Islington,E09000019,localAuthority,2018,Total,15
+Kensington and Chelsea,E09000020,localAuthority,2018,Total,5
+Lambeth,E09000022,localAuthority,2018,Total,7.7
+Lewisham,E09000023,localAuthority,2018,Total,12.8
+Newham,E09000025,localAuthority,2018,Total,2
+Southwark,E09000028,localAuthority,2018,Total,15.2
+Tower Hamlets,E09000030,localAuthority,2018,Total,27.9
+Wandsworth,E09000032,localAuthority,2018,Total,9.4
+Westminster,E09000033,localAuthority,2018,Total,5
+Barking and Dagenham,E09000002,localAuthority,2018,Total,7.5
+Barnet,E09000003,localAuthority,2018,Total,17
+Bexley,E09000004,localAuthority,2018,Total,5.8
+Brent,E09000005,localAuthority,2018,Total,22.6
+Bromley,E09000006,localAuthority,2018,Total,7.5
+Croydon,E09000008,localAuthority,2018,Total,15.2
+Ealing,E09000009,localAuthority,2018,Total,10.5
+Enfield,E09000010,localAuthority,2018,Total,20.1
+Greenwich,E09000011,localAuthority,2018,Total,9.5
+Harrow,E09000015,localAuthority,2018,Total,2.6
+Havering,E09000016,localAuthority,2018,Total,7.6
+Hillingdon,E09000017,localAuthority,2018,Total,9.1
+Hounslow,E09000018,localAuthority,2018,Total,1
+Kingston upon Thames,E09000021,localAuthority,2018,Total,13.5
+Merton,E09000024,localAuthority,2018,Total,11.1
+Redbridge,E09000026,localAuthority,2018,Total,5.8
+Richmond upon Thames,E09000027,localAuthority,2018,Total,13.8
+Sutton,E09000029,localAuthority,2018,Total,7.1
+Waltham Forest,E09000031,localAuthority,2018,Total,23.8

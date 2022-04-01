@@ -1,0 +1,162 @@
+﻿location,location_code,geographic_level,time_period,phase,fsm_eligible_percent
+Darlington,E06000005,localAuthority,201718 Spring Term,Total,16.55899561
+Durham,E06000047,localAuthority,201718 Spring Term,Total,18.13613083
+Gateshead,E08000020,localAuthority,201718 Spring Term,Total,15.93868123
+Hartlepool,E06000001,localAuthority,201718 Spring Term,Total,25.7971205
+Middlesbrough,E06000002,localAuthority,201718 Spring Term,Total,24.18982436
+Newcastle upon Tyne,E08000021,localAuthority,201718 Spring Term,Total,25.61347035
+North Tyneside,E08000022,localAuthority,201718 Spring Term,Total,12.61867603
+Northumberland,E06000048,localAuthority,201718 Spring Term,Total,12.32465151
+Redcar and Cleveland,E06000003,localAuthority,201718 Spring Term,Total,17.97113327
+South Tyneside,E08000023,localAuthority,201718 Spring Term,Total,19.16040214
+Stockton-on-Tees,E06000004,localAuthority,201718 Spring Term,Total,16.43831262
+Sunderland,E08000024,localAuthority,201718 Spring Term,Total,20.99619089
+Blackburn with Darwen,E06000008,localAuthority,201718 Spring Term,Total,15.19591642
+Blackpool,E06000009,localAuthority,201718 Spring Term,Total,25.52116235
+Bolton,E08000001,localAuthority,201718 Spring Term,Total,15.94007876
+Bury,E08000002,localAuthority,201718 Spring Term,Total,14.79383703
+Cheshire East,E06000049,localAuthority,201718 Spring Term,Total,8.372032058
+Cheshire West and Chester,E06000050,localAuthority,201718 Spring Term,Total,11.57775714
+Cumbria,E10000006,localAuthority,201718 Spring Term,Total,9.875283773
+Halton,E06000006,localAuthority,201718 Spring Term,Total,26.10328156
+Knowsley,E08000011,localAuthority,201718 Spring Term,Total,29.13825477
+Lancashire,E10000017,localAuthority,201718 Spring Term,Total,13.47102822
+Liverpool,E08000012,localAuthority,201718 Spring Term,Total,24.02755492
+Manchester,E08000003,localAuthority,201718 Spring Term,Total,24.77103773
+Oldham,E08000004,localAuthority,201718 Spring Term,Total,17.62072274
+Rochdale,E08000005,localAuthority,201718 Spring Term,Total,18.92479714
+Salford,E08000006,localAuthority,201718 Spring Term,Total,21.60630009
+Sefton,E08000014,localAuthority,201718 Spring Term,Total,15.29370524
+St. Helens,E08000013,localAuthority,201718 Spring Term,Total,15.83864916
+Stockport,E08000007,localAuthority,201718 Spring Term,Total,11.40447819
+Tameside,E08000008,localAuthority,201718 Spring Term,Total,17.373172
+Trafford,E08000009,localAuthority,201718 Spring Term,Total,8.56983862
+Warrington,E06000007,localAuthority,201718 Spring Term,Total,10.9932915
+Wigan,E08000010,localAuthority,201718 Spring Term,Total,14.27110846
+Wirral,E08000015,localAuthority,201718 Spring Term,Total,17.01661421
+Barnsley,E08000016,localAuthority,201718 Spring Term,Total,18.04951637
+Bradford,E08000032,localAuthority,201718 Spring Term,Total,17.7045031
+Calderdale,E08000033,localAuthority,201718 Spring Term,Total,14.35884801
+Doncaster,E08000017,localAuthority,201718 Spring Term,Total,15.34814128
+East Riding of Yorkshire,E06000011,localAuthority,201718 Spring Term,Total,11.81553036
+Kingston upon Hull City of,E06000010,localAuthority,201718 Spring Term,Total,22.46175756
+Kirklees,E08000034,localAuthority,201718 Spring Term,Total,18.98307091
+Leeds,E08000035,localAuthority,201718 Spring Term,Total,15.62301413
+North East Lincolnshire,E06000012,localAuthority,201718 Spring Term,Total,15.86230031
+North Lincolnshire,E06000013,localAuthority,201718 Spring Term,Total,13.7340993
+North Yorkshire,E10000023,localAuthority,201718 Spring Term,Total,8.129432945
+Rotherham,E08000018,localAuthority,201718 Spring Term,Total,15.07248959
+Sheffield,E08000019,localAuthority,201718 Spring Term,Total,20.30140523
+Wakefield,E08000036,localAuthority,201718 Spring Term,Total,13.05310153
+York,E06000014,localAuthority,201718 Spring Term,Total,7.633047716
+Derby,E06000015,localAuthority,201718 Spring Term,Total,15.90561756
+Derbyshire,E10000007,localAuthority,201718 Spring Term,Total,12.78336887
+Leicester,E06000016,localAuthority,201718 Spring Term,Total,15.57613535
+Leicestershire,E10000018,localAuthority,201718 Spring Term,Total,7.564744466
+Lincolnshire,E10000019,localAuthority,201718 Spring Term,Total,12.50400316
+Northamptonshire,E10000021,localAuthority,201718 Spring Term,Total,9.179275796
+Nottingham,E06000018,localAuthority,201718 Spring Term,Total,23.05700609
+Nottinghamshire,E10000024,localAuthority,201718 Spring Term,Total,11.38694144
+Rutland,E06000017,localAuthority,201718 Spring Term,Total,4.685264664
+Birmingham,E08000025,localAuthority,201718 Spring Term,Total,24.36733834
+Coventry,E08000026,localAuthority,201718 Spring Term,Total,15.81079875
+Dudley,E08000027,localAuthority,201718 Spring Term,Total,14.56261588
+Herefordshire,E06000019,localAuthority,201718 Spring Term,Total,8.264708379
+Sandwell,E08000028,localAuthority,201718 Spring Term,Total,20.48053191
+Shropshire,E06000051,localAuthority,201718 Spring Term,Total,8.586505456
+Solihull,E08000029,localAuthority,201718 Spring Term,Total,13.30939831
+Staffordshire,E10000028,localAuthority,201718 Spring Term,Total,9.517661553
+Stoke-on-Trent,E06000021,localAuthority,201718 Spring Term,Total,20.10248126
+Telford and Wrekin,E06000020,localAuthority,201718 Spring Term,Total,14.87921062
+Walsall,E08000030,localAuthority,201718 Spring Term,Total,18.82316398
+Warwickshire,E10000031,localAuthority,201718 Spring Term,Total,9.240554141
+Wolverhampton,E08000031,localAuthority,201718 Spring Term,Total,20.08459484
+Worcestershire,E10000034,localAuthority,201718 Spring Term,Total,10.39983921
+Bedford,E06000055,localAuthority,201718 Spring Term,Total,10.74090925
+Cambridgeshire,E10000003,localAuthority,201718 Spring Term,Total,9.320304574
+Central Bedfordshire,E06000056,localAuthority,201718 Spring Term,Total,6.81961172
+Essex,E10000012,localAuthority,201718 Spring Term,Total,9.90450087
+Hertfordshire,E10000015,localAuthority,201718 Spring Term,Total,7.352085254
+Luton,E06000032,localAuthority,201718 Spring Term,Total,14.40409707
+Norfolk,E10000020,localAuthority,201718 Spring Term,Total,12.71074481
+Peterborough,E06000031,localAuthority,201718 Spring Term,Total,13.79050895
+Southend-on-Sea,E06000033,localAuthority,201718 Spring Term,Total,11.66644031
+Suffolk,E10000029,localAuthority,201718 Spring Term,Total,10.82049374
+Thurrock,E06000034,localAuthority,201718 Spring Term,Total,11.48187258
+Barking and Dagenham,E09000002,localAuthority,201718 Spring Term,Total,14.87004293
+Barnet,E09000003,localAuthority,201718 Spring Term,Total,11.34932585
+Bexley,E09000004,localAuthority,201718 Spring Term,Total,10.95918554
+Brent,E09000005,localAuthority,201718 Spring Term,Total,11.03309722
+Bromley,E09000006,localAuthority,201718 Spring Term,Total,8.730267943
+Camden,E09000007,localAuthority,201718 Spring Term,Total,24.94958352
+City of London,E09000001,localAuthority,201718 Spring Term,Total,11.26760563
+Croydon,E09000008,localAuthority,201718 Spring Term,Total,19.84309388
+Ealing,E09000009,localAuthority,201718 Spring Term,Total,13.29176782
+Enfield,E09000010,localAuthority,201718 Spring Term,Total,15.24543359
+Greenwich,E09000011,localAuthority,201718 Spring Term,Total,16.11014546
+Hackney,E09000012,localAuthority,201718 Spring Term,Total,27.70093458
+Hammersmith and Fulham,E09000013,localAuthority,201718 Spring Term,Total,20.93681082
+Haringey,E09000014,localAuthority,201718 Spring Term,Total,17.15977862
+Harrow,E09000015,localAuthority,201718 Spring Term,Total,8.518559373
+Havering,E09000016,localAuthority,201718 Spring Term,Total,10.78936626
+Hillingdon,E09000017,localAuthority,201718 Spring Term,Total,12.41058792
+Hounslow,E09000018,localAuthority,201718 Spring Term,Total,14.65422108
+Islington,E09000019,localAuthority,201718 Spring Term,Total,28.10182401
+Kensington and Chelsea,E09000020,localAuthority,201718 Spring Term,Total,19.1305003
+Kingston upon Thames,E09000021,localAuthority,201718 Spring Term,Total,7.125278331
+Lambeth,E09000022,localAuthority,201718 Spring Term,Total,22.25513842
+Lewisham,E09000023,localAuthority,201718 Spring Term,Total,16.08548931
+Merton,E09000024,localAuthority,201718 Spring Term,Total,14.60420145
+Newham,E09000025,localAuthority,201718 Spring Term,Total,13.62450898
+Redbridge,E09000026,localAuthority,201718 Spring Term,Total,12.19107763
+Richmond upon Thames,E09000027,localAuthority,201718 Spring Term,Total,7.727339503
+Southwark,E09000028,localAuthority,201718 Spring Term,Total,22.15716344
+Sutton,E09000029,localAuthority,201718 Spring Term,Total,11.10504278
+Tower Hamlets,E09000030,localAuthority,201718 Spring Term,Total,33.60692301
+Waltham Forest,E09000031,localAuthority,201718 Spring Term,Total,14.01177889
+Wandsworth,E09000032,localAuthority,201718 Spring Term,Total,15.47062112
+Westminster,E09000033,localAuthority,201718 Spring Term,Total,22.00483623
+Bracknell Forest,E06000036,localAuthority,201718 Spring Term,Total,6.661831167
+Brighton and Hove,E06000043,localAuthority,201718 Spring Term,Total,13.03433994
+Buckinghamshire,E10000002,localAuthority,201718 Spring Term,Total,5.823331054
+East Sussex,E10000011,localAuthority,201718 Spring Term,Total,12.67811581
+Hampshire,E10000014,localAuthority,201718 Spring Term,Total,8.415718108
+Isle of Wight,E06000046,localAuthority,201718 Spring Term,Total,13.06317044
+Kent,E10000016,localAuthority,201718 Spring Term,Total,11.04638368
+Medway,E06000035,localAuthority,201718 Spring Term,Total,11.86959182
+Milton Keynes,E06000042,localAuthority,201718 Spring Term,Total,10.23230088
+Oxfordshire,E10000025,localAuthority,201718 Spring Term,Total,7.958352772
+Portsmouth,E06000044,localAuthority,201718 Spring Term,Total,18.62310745
+Reading,E06000038,localAuthority,201718 Spring Term,Total,12.81258284
+Slough,E06000039,localAuthority,201718 Spring Term,Total,9.238046206
+Southampton,E06000045,localAuthority,201718 Spring Term,Total,18.68903015
+Surrey,E10000030,localAuthority,201718 Spring Term,Total,7.206169917
+West Berkshire,E06000037,localAuthority,201718 Spring Term,Total,6.317204301
+West Sussex,E10000032,localAuthority,201718 Spring Term,Total,7.398430797
+Windsor and Maidenhead,E06000040,localAuthority,201718 Spring Term,Total,6.152935283
+Wokingham,E06000041,localAuthority,201718 Spring Term,Total,5.316140708
+Bath and North East Somerset,E06000022,localAuthority,201718 Spring Term,Total,10.41172107
+Bournemouth,E06000028,localAuthority,201718 Spring Term,Total,10.73831219
+Bristol City of,E06000023,localAuthority,201718 Spring Term,Total,17.90494762
+Cornwall,E06000052,localAuthority,201718 Spring Term,Total,10.79510325
+Devon,E10000008,localAuthority,201718 Spring Term,Total,9.600718263
+Dorset,E10000009,localAuthority,201718 Spring Term,Total,12.78210256
+Gloucestershire,E10000013,localAuthority,201718 Spring Term,Total,9.375179299
+Isles Of Scilly,E06000053,localAuthority,201718 Spring Term,Total,4.42804428
+North Somerset,E06000024,localAuthority,201718 Spring Term,Total,8.124711011
+Plymouth,E06000026,localAuthority,201718 Spring Term,Total,15.06124223
+Poole,E06000029,localAuthority,201718 Spring Term,Total,9.932616635
+Somerset,E10000027,localAuthority,201718 Spring Term,Total,11.67712722
+South Gloucestershire,E06000025,localAuthority,201718 Spring Term,Total,8.088460361
+Swindon,E06000030,localAuthority,201718 Spring Term,Total,12.2474118
+Torbay,E06000027,localAuthority,201718 Spring Term,Total,15.49409102
+Wiltshire,E06000054,localAuthority,201718 Spring Term,Total,7.308487702
+North East,E12000001,region,201718 Spring Term,Total,18.4623936
+North West,E12000002,region,201718 Spring Term,Total,16.11565858
+Yorkshire and the Humber,E12000003,region,201718 Spring Term,Total,15.52195948
+East Midlands,E12000004,region,201718 Spring Term,Total,12.19845699
+West Midlands,E12000005,region,201718 Spring Term,Total,16.0082444
+East of England,E12000006,region,201718 Spring Term,Total,10.09247138
+London,E12000007,region,201718 Spring Term,Total,15.65087289
+South East,E12000008,region,201718 Spring Term,Total,9.439386415
+South West,E12000009,region,201718 Spring Term,Total,11.08440064
